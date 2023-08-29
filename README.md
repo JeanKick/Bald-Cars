@@ -1,6 +1,6 @@
 # Bald-Cars
-Site com fns educativos, desenvolvido com html5, css3 e javascript
+Site com fins educativos, desenvolvido com html5, css3 e javascript
 
-Linkedin: https://www.linkedin.com/in/lu%C3%A3-melo-silva-636a96231/
+Linkedin: https://www.linkedin.com/in/jean-carlos-53a92028a/
 
-Site: https://zmelogod.github.io/Bald-Cars/
+Site: https://jeankick.github.io/Bald-Cars/
